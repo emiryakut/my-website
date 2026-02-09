@@ -218,17 +218,17 @@ section {
 
     20%,
     39% {
-        content: "Back-end Developer";
+        content: "Game Developer";
     }
 
     40%,
     59% {
-        content: "Game Developer";
+        content: "Front-end Developer";
     }
 
     60%,
     79% {
-        content: "Full Stack Developer";
+        content: "Game Developer";
     }
 
     80%,
@@ -703,4 +703,5 @@ section {
     .logo{
         font-size: 3rem;
     }
+
 }
