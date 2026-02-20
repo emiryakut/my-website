@@ -561,6 +561,7 @@ section {
     .navbar a {
         padding: 1.5rem 0;
         font-size: 2rem;
+        margin: 0;
     }
 
     .home {
@@ -705,3 +706,4 @@ section {
     }
 
 }
+
